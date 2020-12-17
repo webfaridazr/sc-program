@@ -3,3 +3,4 @@ Tahapan untuk memulai
 -belajar css
 -belajar belajar php
 -belajar framwork
+-buat web
